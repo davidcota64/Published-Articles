@@ -37,6 +37,7 @@ The folder currently includes, among others:
 - **The Retrospective Illusion of Origin - Order as Post-Nomination, …**
 - **The Hesitant Minds The Weight of Choice Before the Newl, …**
 - **As Mentes que Hesitam, …**
+- **Statistical Operation and Technical Inscription An Ontology, …**
 
 Some articles are in Portuguese, others in English.
 
