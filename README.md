@@ -33,6 +33,10 @@ The folder currently includes, among others:
 - **Form Is Never Final**
 - **The Impossibility of Western Philosophy …**
 - **The Survival of the Narrative – Nietzsche, …**
+- **The Allure of Quantum Drama, …**
+- **The Retrospective Illusion of Origin - Order as Post-Nomination, …**
+- **The Hesitant Minds The Weight of Choice Before the Newl, …**
+- **As Mentes que Hesitam, …**
 
 Some articles are in Portuguese, others in English.
 
